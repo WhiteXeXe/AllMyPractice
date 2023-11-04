@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/ALL MY PROJECTS/C/IBKSchess/main.c
+stdio.h
+C:/ALL MY PROJECTS/C/IBKSchess/stdio.h
+
