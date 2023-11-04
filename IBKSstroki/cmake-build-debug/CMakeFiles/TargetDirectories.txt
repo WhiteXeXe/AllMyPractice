@@ -1,0 +1,3 @@
+C:/ALL MY PROJECTS/C/IBKSstroki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ALL MY PROJECTS/C/IBKSstroki/cmake-build-debug/CMakeFiles/IBKSstroki.dir
+C:/ALL MY PROJECTS/C/IBKSstroki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
