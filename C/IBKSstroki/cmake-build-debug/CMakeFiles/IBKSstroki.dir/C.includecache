@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/ALL MY PROJECTS/C/IBKSstroki/main.c
+C:/ALL MY PROJECTS/SPBPUPractice/C/IBKSstroki/main.c
 stdio.h
+-
+string.h
 -
 

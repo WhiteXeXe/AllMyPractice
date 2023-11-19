@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/ALL MY PROJECTS/C/IBKSstroki/main.c" "C:/ALL MY PROJECTS/C/IBKSstroki/cmake-build-debug/CMakeFiles/IBKSstroki.dir/main.c.obj"
+  "C:/ALL MY PROJECTS/SPBPUPractice/C/IBKSstroki/main.c" "C:/ALL MY PROJECTS/SPBPUPractice/C/IBKSstroki/cmake-build-debug/CMakeFiles/IBKSstroki.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")
 
