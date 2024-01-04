@@ -1,3 +1,0 @@
-C:/ALL MY PROJECTS/C/Taylor_Derdan/Taylor_Derdan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/ALL MY PROJECTS/C/Taylor_Derdan/Taylor_Derdan/cmake-build-debug/CMakeFiles/Taylor_Derdan.dir
-C:/ALL MY PROJECTS/C/Taylor_Derdan/Taylor_Derdan/cmake-build-debug/CMakeFiles/edit_cache.dir

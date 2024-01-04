@@ -1,3 +1,0 @@
-C:/ALL MY PROJECTS/C/Test Func/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/ALL MY PROJECTS/C/Test Func/cmake-build-debug/CMakeFiles/Test_Func.dir
-C:/ALL MY PROJECTS/C/Test Func/cmake-build-debug/CMakeFiles/rebuild_cache.dir
