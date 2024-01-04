@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "C:/ALL MY PROJECTS/SPBPUPractice/C/IBKSstroki/main.c" "C:/ALL MY PROJECTS/SPBPUPractice/C/IBKSstroki/cmake-build-debug/CMakeFiles/IBKSstroki.dir/main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "MSVC")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

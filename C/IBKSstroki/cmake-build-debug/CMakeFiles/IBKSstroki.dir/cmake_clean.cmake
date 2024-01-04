@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/IBKSstroki.dir/main.c.obj"
   "IBKSstroki.exe"
   "IBKSstroki.exe.manifest"
-  "IBKSstroki.lib"
   "IBKSstroki.pdb"
+  "libIBKSstroki.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
